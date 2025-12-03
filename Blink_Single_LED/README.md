@@ -1,7 +1,7 @@
 # Blink Single LED
 
 ## Hardware Required
-- **Arduino Board** *(optional)*
+- **Arduino Board**
 - **LED**
 - **220 Ω resistor**
 
@@ -110,7 +110,7 @@ That takes the LED_BUILTIN pin back to 0 volts, and turns the LED off.
 
 ### Compoents Documentation
 - LED
-- Arduino UNO R5
+- Arduino UNO R3
 - Resistor
 - Breadboard
-- Jumper Wires
+- [Jumper Wires](../Jumper_Wires/README.md)
