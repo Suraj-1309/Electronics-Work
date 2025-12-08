@@ -84,8 +84,8 @@ void loop() {
 
 ## Compoents Documentation
 
-- LED
+- [LED](../../Documentation/LED/README.md)
 - Arduino UNO R3
 - Resistor
-- Breadboard
-- [Jumper Wires](../Jumper_Wires/README.md)
+- [Breadboard](../../BreadBoard/README.md)
+- [Jumper Wires](../../Jumper_Wires/README.md)
