@@ -40,6 +40,7 @@ To use them to communicate with an external TTL serial device, connect the TX pi
 
 ## Functions
 1. [Serial.available()](serial/Serial.available().md)
+1. [Serial.availableForWrite()](serial/Serial.availableForWrite().md)
 1. [Serial.begin()](serial/Serial.begin().md)
 1. [Serial.end()](serial/Serial.end().md)
 1. [Serial.print()](serial/Serial.print().md)
