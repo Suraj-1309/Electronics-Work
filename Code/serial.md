@@ -39,6 +39,7 @@ To use these extra serial ports to communciate with your personal computer, you 
 To use them to communicate with an external TTL serial device, connect the TX pin to your device's RX pin, the RX to your device's TX pin, and the ground of your Mega to your device's ground.
 
 ## Functions
+1. [Serial.available()](serial/Serial.available().md)
 1. [Serial.begin()](serial/Serial.begin().md)
 1. [Serial.end()](serial/Serial.end().md)
 1. [Serial.print()](serial/Serial.print().md)

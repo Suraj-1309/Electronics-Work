@@ -2,3 +2,4 @@
 1. [setup()](setup.md)
 2. [loop()](loop.md)
 3. [Serial Class](serial.md)
+4. [digital Functions](Digital/README.md)
