@@ -3,5 +3,5 @@
 2. [loop()](loop.md)
 3. [Serial Class](serial.md)
 5. [Data Types](data_types.md)
-6. [Constant]()
+6. [Constant](constant.md)
 4. [digital Functions](Digital/README.md)
