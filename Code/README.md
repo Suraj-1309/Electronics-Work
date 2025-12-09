@@ -4,5 +4,5 @@
 3. [Serial Class](serial.md)
 4. [Data Types](data_types.md)
 5. [Constant](constant.md)
-6. [digital Functions](Digital/README.md)
-7. [Variable Scope & Qualifiers](variable_scope.md)
+6. [Variable Scope & Qualifiers](variable_scope.md)
+7. [digital Functions](Digital/README.md)
