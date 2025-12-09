@@ -109,8 +109,8 @@ That takes the LED_BUILTIN pin back to 0 volts, and turns the LED off.
 - https://youtube.com/shorts/6fLNgwKxu4k?feature=share
 
 ### Compoents Documentation
-- LED
+- [LED](../../Documentation/LED/README.md)
 - Arduino UNO R3
 - Resistor
-- Breadboard
-- [Jumper Wires](../Jumper_Wires/README.md)
+- [Breadboard](../../Documentation/BreadBoard/README.md)
+- [Jumper Wires](../../Documentation/Jumper_Wires/README.md)

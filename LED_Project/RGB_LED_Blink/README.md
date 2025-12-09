@@ -79,5 +79,5 @@ void colorSet(int red_val,int green_val,int blue_val){
 - [RGB LED](../../Documentation/RGB_LED/README.md)
 - Arduino UNO R3
 - Resistor
-- [Breadboard](../../BreadBoard/README.md)
-- [Jumper Wires](../../Jumper_Wires/README.md)
+- [Breadboard](../../Documentation/BreadBoard/README.md)
+- [Jumper Wires](../../Documentation/Jumper_Wires/README.md)
