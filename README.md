@@ -14,6 +14,8 @@
 ### 3. [Serial Plotter](Documentation/SerialPlotter/README.md)
 ### 4. [LED](Documentation/LED/README.md)
 ### 5. [RGB LED](Documentation/RGB_LED/README.md)
+### 6. [Traffic Light Module](Documentation/Traffic_Light_Module/README.md)
+
 
 <br>
 <br>
