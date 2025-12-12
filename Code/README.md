@@ -7,3 +7,4 @@
 6. [Variable Scope & Qualifiers](variable_scope.md)
 7. [digital Functions](Digital/README.md)
 8. [String](String/README.md)
+9. [Pointer](Pointer/README.md)
