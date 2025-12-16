@@ -8,6 +8,7 @@
 7. [digital Functions](Digital/README.md)
 8. [String](String/README.md)
 9. [Bitwise Operators](Bitwise/README.md)
+10. [Math](Math/README.md)
 10. [Conversion](Conversion/README.md)
 11. [Random Numbers](RandomNumbers/README.md)
-9. [Pointer](Pointer/README.md)
+12. [Pointer](Pointer/README.md)
