@@ -7,6 +7,7 @@
 6. [Variable Scope & Qualifiers](variable_scope.md)
 7. [digital Functions](Digital/README.md)
 8. [String](String/README.md)
+8. [Characters](Character/README.md)
 9. [Bitwise Operators](Bitwise/README.md)
 10. [Math](Math/README.md)
 10. [Trigonometry](Math/Trigonometry.md)
